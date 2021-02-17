@@ -55,6 +55,7 @@
   <h3> Contributors </h3>
   <ul>
   <li> Analysis & Words: <a href="https://github.com/tarushi98"> Tarushi Pathak </a> </li>
+        <li> Editor:<a href="https://github.com/Purbasha33">Purbasha Pan </a> </li>
   </ul>
 
   <h3> Article Link : Yet to be Uploaded </h3>
